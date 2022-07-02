@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KingRo1999
 - 👀 I’m interested in ... Mobile app developement & Data Analytics
-- 🌱 I’m currently learning ... Python
+- 🌱 I’m currently learning ... SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... romain.paulo@outlook.com
 
